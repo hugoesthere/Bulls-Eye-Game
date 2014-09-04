@@ -11,7 +11,6 @@
 @interface HHViewController : UIViewController
 
 - (IBAction)showAlert;
-
-//comment
+- (IBAction)sliderMoved:(UISlider *)slider;
 
 @end
